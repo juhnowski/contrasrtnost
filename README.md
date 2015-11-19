@@ -1,0 +1,2 @@
+# contrasrtnost
+OpenCV experiments
